@@ -37,6 +37,9 @@ for ch in encoded_message:
         decoded_message = decoded_message + new_char   
 print(decoded_message)
         
+    
+    
+    #rewrite using lists
         
     
     
